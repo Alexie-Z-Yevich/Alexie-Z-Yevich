@@ -4,15 +4,14 @@ Hi，我是 `Alexie-Z-Yevich` ，一个想搞音乐的程序猿，目前正在�
 
 个人主页：[New Try && New Life - Welcome to Xiaoai🥝のblog!🤣🤣🤣](https://www.aiznoyer.work/) 目前还没有做整合和优化，仅仅只是一个内容的记录~
 
-<!-- github stats
-
 <p align="center">
-  <a href="https://github.com/Alexie-Z-Yevich" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alexie-Z-Yevich&title_color=333&text_color=777" alt="Charmve's Stats" >
-  </a>
+    <a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexie-Z-Yevich&title_color=333&text_color=777" alt="Alexie-Z-Yevich's Stats" >
+    </a>
+    <a style="margin-bottom: 10px;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexie-Z-Yevich&show_icons=true&locale=en&layout=compact" alt="Alexie-Z-Yevich" />
+    </a>
 </p>
-
--->
 
 <h2>🚀 Languages and Tools I Use</h2>
 
